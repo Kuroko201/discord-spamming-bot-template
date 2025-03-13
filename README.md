@@ -9,5 +9,6 @@ Try these command. If it doesn't work try another:
 2. python install requests
 
 Use pip list in your command prompt / vs code terminal to find whether requests is downloaded
+
 If your vs code said can not find the module. Change your Interpreter
 
